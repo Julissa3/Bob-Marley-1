@@ -7,3 +7,36 @@ body{
     position: center;
   
   }
+
+h2{
+  color: darkolivegreen;
+  background-color: bisque;
+}
+h3{
+  color: darksalmon;
+  background-color: rgb(99, 158, 156);
+}
+
+#special{
+  color: darkmagenta;
+  background-color: darkgray;
+}
+
+p{
+  color: rgb(112, 144, 153);
+  background-color: rgb(230, 201, 201);
+}
+
+#special2 {
+  color: lightslategray;
+  background-color: rgb(95, 91, 86);
+}
+
+form{
+  background-color: darkgrey;
+  width: 400px;
+}
+
+.submit{
+  margin-top: 60px;
+}
